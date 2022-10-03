@@ -15,13 +15,13 @@ export class Search extends Component<SearchProps, SearchState> {
     inputSearch: '',
   };
 
-  componentDidMount() {
-    this.setState({ inputSearch: JSON.parse(localStorage.getItem('search-value') || '') });
-  }
+  // componentDidMount() {
+  //   this.setState({ inputSearch: JSON.parse(localStorage.getItem('search-value') || '{}') });
+  // }
 
-  componentWillUnmount() {
-    localStorage.setItem('search-value', JSON.stringify(this.state.inputSearch));
-  }
+  // componentWillUnmount() {
+  //   localStorage.setItem('search-value', JSON.stringify(this.state.inputSearch));
+  // }
 
   handleInputSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     const {
