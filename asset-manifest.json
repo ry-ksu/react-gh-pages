@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.240a2606.css",
+    "main.js": "/react-gh-pages/static/js/main.b357727d.js",
+    "static/js/787.e56f57c5.chunk.js": "/react-gh-pages/static/js/787.e56f57c5.chunk.js",
+    "static/media/search.png": "/react-gh-pages/static/media/search.6ce43594df672411881e.png",
+    "static/media/bannerSaga.png": "/react-gh-pages/static/media/bannerSaga.2694b29bf6b7c7cd87bf.png",
+    "static/media/nfs.png": "/react-gh-pages/static/media/nfs.2c8c33844dfc6f55f459.png",
+    "static/media/fahrenheit.png": "/react-gh-pages/static/media/fahrenheit.32144be2360870112124.png",
+    "static/media/massEffect2.png": "/react-gh-pages/static/media/massEffect2.afffb4637526df3b4f9b.png",
+    "static/media/rimWorld.png": "/react-gh-pages/static/media/rimWorld.f2651576cca7dce72f1c.png",
+    "static/media/beholder.png": "/react-gh-pages/static/media/beholder.f62d18e4afa1e0f7cc8e.png",
+    "static/media/walkingDead.png": "/react-gh-pages/static/media/walkingDead.b368f17163e9d4e87e40.png",
+    "static/media/witcher3.png": "/react-gh-pages/static/media/witcher3.a7e810c036e216a7d40a.png",
+    "static/media/heavyRain.png": "/react-gh-pages/static/media/heavyRain.d3e97584f2ec85189bb0.png",
+    "static/media/warOfMine.png": "/react-gh-pages/static/media/warOfMine.c3564f6805c17c3c9571.png",
+    "static/media/remove.png": "/react-gh-pages/static/media/remove.204feae4a6b15594240b.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.240a2606.css.map": "/react-gh-pages/static/css/main.240a2606.css.map",
+    "main.b357727d.js.map": "/react-gh-pages/static/js/main.b357727d.js.map",
+    "787.e56f57c5.chunk.js.map": "/react-gh-pages/static/js/787.e56f57c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240a2606.css",
+    "static/js/main.b357727d.js"
+  ]
+}
