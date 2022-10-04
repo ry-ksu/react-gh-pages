@@ -10,9 +10,9 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/react-gh-pages" element={<Layout />}>
           <Route index element={<Games />} />
-          <Route path="about" element={<About />} />
+          <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
