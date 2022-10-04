@@ -11,7 +11,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route path="react-gh-pages" element={<Games />} />
+          <Route path="" element={<Games />} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
